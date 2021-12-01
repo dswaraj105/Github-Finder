@@ -1,0 +1,11 @@
+.Header {
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.topic{
+  font-size: 2rem;
+  margin-left: 20px;
+}
