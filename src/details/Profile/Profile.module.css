@@ -1,0 +1,14 @@
+.Profile{
+
+  display: flex;
+  padding: 45px 20px 20px 5px;
+}
+
+.avatar {
+  height: 60px;
+  margin-right: 20px;
+}
+
+.name{
+  font-size: 1.2rem;
+}

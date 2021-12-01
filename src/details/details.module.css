@@ -1,0 +1,15 @@
+.Details {
+  margin: 30px auto ;
+  padding: 5px 20px 20px 20px;
+  width: 500px;
+  /* height: 600px; */
+}
+
+.backarrow {
+  margin-top: 10px;
+}
+
+.back {
+  font-size: 1.3rem;
+  /* margin-top: -5px; */
+}

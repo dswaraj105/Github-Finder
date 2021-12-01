@@ -1,0 +1,15 @@
+.Section {
+  margin: 10px
+}
+
+.title{
+  font-size: 1.1rem;
+}
+
+.desc {
+  font-size: 0.9rem;
+}
+
+.red {
+  color: rgb(192, 42, 42);
+}
